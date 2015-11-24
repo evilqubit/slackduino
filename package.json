@@ -1,0 +1,27 @@
+
+{
+  "name": "arduino-assets",
+  "version": "0.0.1",
+  "description": "connecting arduino events",
+  "dependencies": {
+    "serialport": "~1.7.4",
+    "instapush": "~0.0.7",
+    "node-slackbot":"0.0.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evilqubit/slackduino.git"
+  },
+  "keywords": [
+    "arduino",
+    "node.js"
+  ],
+  "author": "simon tadros",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/evilqubit/slackduino/issues"
+  },
+  "homepage":
+  "http://lightningtalks.me/simple-slack-of-things-nodejsslackarduino"
+}
