@@ -6,7 +6,8 @@
   "dependencies": {
     "serialport": "~1.7.4",
     "instapush": "~0.0.7",
-    "node-slackbot":"0.0.6"
+    "node-slackbot":"0.0.6",
+    "johnny-five":"*"
   },
   "devDependencies": {},
   "repository": {
